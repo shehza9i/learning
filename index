@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <h1 align="center"> PORTFOLIO</h1> <br> <hr>
+   <big> <p>HI <br> my name is shehzaan shariff and im currently studying 12th of
+     th school named DEVADHAR <br>
+        And my aim is to become a full stack developer. and im eager to learn assembly 
+        and many more languages
+     </p> <hr>
+
+    <a href="/html tutorial/portfolio/education.html"> education</a> <br>
+    <a href="/html tutorial/portfolio/experience.html"> experience</a> <br>
+    <a href="/html tutorial/portfolio/projects.html"> projects</a> <br>
+
+
+</body>
+</body>
+</html>
