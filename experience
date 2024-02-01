@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center"> ABOUT EXPERIENCE </h1> <br> <hr> 
+    <p> <b>
+     Till now i have no experience in web development and coding at all
+     but im currently learning about it and i hope that in future im gonna 
+     become a well known full stack developer   
+    </p>  <hr>
+    <a href="index.html"> home </a>
+    
+</body>
+</html>
