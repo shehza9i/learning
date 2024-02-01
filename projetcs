@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center"> ABOUT PROJECTS </h1> <br> <hr> 
+   <p> <b> 
+    Well not sure about projects but to show you something i have created a 
+    few things like a collage of photos and and website of school basically an 
+    assignment of school </b> </p> <hr> <br>
+    <a href="/html tutorial/hyperlinking.html"> hyperlinking </a> <br>
+    <a href="/html tutorial/photos.html">photos</a> <br>
+    <a href="index.html"> home </a> 
+</body>
+</html>
